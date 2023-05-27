@@ -4,11 +4,13 @@ by Scott Edwards
 
 Website developed for educational purposes as part of the Code Institute diploma in web development.
 
+- - -
+
 # Project Goals
 
 ## Purpose
 
-The idea for this website was advertisement for a self-employed businessperson. This was a fictional career for the purpsoes of the project and I used my own name. The career chosen was a Wedding Photographer.
+The idea for this website was advertisement for a self-employed businessperson. This was a fictional career for the purpsoes of the project. The career chosen was a Wedding Photographer. The name of the photographer, 'Rhys Morgan', is made up. 
 
 ## Client Aims
 
@@ -23,3 +25,37 @@ The idea for this website was advertisement for a self-employed businessperson. 
 - To view examples of the photographers work and reviews
 - Enable users to request the service
 - Allow users to ask questions.
+
+## User Stories
+
+## Project Scope
+
+- - -
+
+# Design & Structure
+
+## Project Structure
+
+## Wireframes
+
+## Visual Design
+
+- - -
+
+# Technologies Used
+
+- - -
+
+# Testing
+
+- - -
+
+# Bugs 
+
+- - -
+
+# Credits
+
+- - -
+
+# Deployment
