@@ -266,7 +266,6 @@ The Webiste was tested from the point of view of the envisioned users to conside
 
 | I want to.. | Can I? | 
 | ----------- | ----------- | 
-
 | View examples of the photographers work.| Yes. The portfolio of work is naturally navigated to using the Navbar or call to action button.| 
 | Find links to social media accounts to connect with the photographer.| Yes. Well known social icons links are present in the footer of every page.| 
 | View the testimonial if I have written one for the photographer. | Yes. The testimonials section can easily be navigated to using the Navbar link.| 
