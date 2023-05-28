@@ -53,6 +53,7 @@ body {
 .body-row {
   margin: 30px 0 20px 0;
 }
+
 .body-section {
   text-align: center;
   font-family: "Exo", sans-serif;
@@ -71,12 +72,13 @@ p {
   font-size: 1.1em;
 }
 
-h3, h5 {
+h3,
+h5 {
   font-family: "Exo", sans-serif;
   text-align: center;
 }
 
-.text-container{
+.text-container {
   height: 75%;
   position: relative;
   display: flex;
@@ -85,7 +87,7 @@ h3, h5 {
   align-items: center;
 }
 
-.btn-container{
+.btn-container {
   height: 25%;
   position: relative;
   display: flex;
@@ -110,39 +112,42 @@ button {
 }
 
 button a {
-      text-decoration: none;
-      color: #fafafa;
-  }
+  text-decoration: none;
+  color: #fafafa;
+}
 
-button:hover{
+button:hover {
   background-color: #a6abae;
 }
 
-.portfolio-heading{
+.section-heading {
   font-family: "Redressed", sans-serif;
+  margin-top: 20px;
 }
 
-.portfolio-img{
+.portfolio-img {
   width: 100%;
   height: auto;
   margin-bottom: 20px;
-  }
-
-  .testimonial-container{
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: auto;
 }
 
-.testimonial{
-    margin-top: auto;
-    margin-bottom: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
+.testimonial-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
 }
+
+.testimonial {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 100px;
+  padding-bottom: 30px;
+ 
+}
+
 
 /* Footer */
 
@@ -154,5 +159,5 @@ footer {
 }
 
 .nav-link:hover {
-  color:#8785A2;
+  color: #8785A2;
 }
