@@ -39,6 +39,10 @@ h2 {
   font-family: "Exo", sans-serif;
 }
 
+.nav-link:visited {
+  color: #fafafa;
+}
+
 /* Body Sections */
 
 body {
