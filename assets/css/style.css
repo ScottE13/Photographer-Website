@@ -118,6 +118,16 @@ button:hover{
   background-color: #a6abae;
 }
 
+.portfolio-heading{
+  font-family: "Redressed", sans-serif;
+}
+
+.portfolio-img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  }
+
 /* Footer */
 
 footer {
