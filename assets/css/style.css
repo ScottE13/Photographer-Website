@@ -152,6 +152,9 @@ button:hover {
   margin-bottom: 5px;
 }
 
+.thanks-text{
+  margin-top: 100px;
+}
 
 
 /* Footer */
@@ -178,5 +181,11 @@ footer {
 
   .form-btn{
       margin-top: 50px;
+  }
+}
+
+@media(max-width:992px) {
+  .index-btn{
+      margin-bottom: 50px;
   }
 }
