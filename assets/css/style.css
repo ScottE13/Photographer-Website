@@ -92,7 +92,7 @@ h5 {
   border-radius: 50%;
   padding: 17px;
   margin: 15px 0 15px 0;
-  background-color: #a6abae;
+  background-color: #394349;
   color: #fafafa;
   border-style: hidden;
   font-family: "Redressed", sans-serif;
@@ -140,6 +140,25 @@ h5 {
   margin-bottom: 5px;
 }
 
+button {
+  border-radius: 50%;
+  padding: 17px;
+  margin: 15px 0 15px 0;
+  background-color: #394349;
+  color: #fafafa;
+  border-style: hidden;
+  font-family: "Redressed", sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+  max-width: 200px;
+  height: auto;
+  width: 60%;
+}
+
+button:hover {
+  background-color: #a6abae;
+}
+
 .thanks-text{
   margin-top: 100px;
 }
@@ -166,7 +185,7 @@ footer {
       max-width: 75%;
   }
 
-  .form-btn{
+  button{
       margin-top: 50px;
   }
 }
