@@ -68,15 +68,19 @@ Simple wireframes for the website pages were drawn up using [wireframe.cc](https
 
 <details><summary>Home</summary>
 <img src="assets/images/readme/wireframe-index.jpg">
+</details>
 
 <details><summary>Portfolio</summary>
 <img src="assets/images/readme/wireframe-portfolio.jpg">
+</details>
 
 <details><summary>Testimonials</summary>
 <img src="assets/images/readme/wireframe-testimonials.jpg">
+</details>
 
 <details><summary>Contact</summary>
 <img src="assets/images/readme/wireframe-contact.jpg">
+</details>
 
 <br>
 
