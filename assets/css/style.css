@@ -50,6 +50,74 @@ body {
   background-color: #fafafa;
 }
 
+#my-photo {
+  width: 100%;
+  height: auto;
+  max-height: 660px;
+}
+
+.body-row {
+  margin: 30px 0 20px 0;
+}
+.body-section {
+  text-align: center;
+  font-family: "Exo", sans-serif;
+  font-size: 1.1em;
+}
+
+p {
+  font-family: "Exo", sans-serif;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+h3, h5 {
+  font-family: "Exo", sans-serif;
+  text-align: center;
+}
+
+.text-container{
+  height: 75%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container{
+  height: 25%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 50%;
+  padding: 17px;
+  margin: 15px 0 15px 0;
+  background-color: #a6abae;
+  color: #fafafa;
+  border-style: hidden;
+  font-family: "Redressed", sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+  max-width: 200px;
+  height: auto;
+  width: 60%;
+}
+
+button a {
+      text-decoration: none;
+      color: #fafafa;
+  }
+
+button:hover{
+  background-color: #a6abae;
+}
+
 /* Footer */
 
 footer {
