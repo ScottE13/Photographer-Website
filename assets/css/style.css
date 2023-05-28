@@ -39,6 +39,17 @@ h2 {
   font-family: "Exo", sans-serif;
 }
 
+/* Body Sections */
+
+body {
+  /* Code found online to fix footer to bottom of viewport */
+  /* Credit - https://dev.to/inezabonte/how-to-make-footer-stay-at-the-bottom-298b */
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+
 /* Footer */
 
 footer {
