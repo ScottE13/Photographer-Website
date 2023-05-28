@@ -133,10 +133,10 @@ h5 {
   margin-bottom: auto;
   padding: 100px;
   padding-bottom: 30px;
- 
+
 }
 
-.form-control{
+.form-control {
   margin-bottom: 5px;
 }
 
@@ -159,7 +159,7 @@ button:hover {
   background-color: #a6abae;
 }
 
-.thanks-text{
+.thanks-text {
   margin-top: 100px;
 }
 
@@ -180,12 +180,19 @@ footer {
 
 @media(min-width:992px) {
   .form {
-      padding-top: 30px;
-      margin: 0 auto;
-      max-width: 75%;
+    padding-top: 30px;
+    margin: 0 auto;
+    max-width: 75%;
   }
 
-  button{
-      margin-top: 50px;
+  button {
+    margin-top: 50px;
+  }
+}
+
+@media(max-width: 1200px) {
+
+  .testimonial {
+    padding: 25px;
   }
 }
