@@ -28,3 +28,13 @@ h2 {
   color: #fafafa;
   margin-bottom: 25px;
 }
+
+.nav-bar {
+  background-color: #394349;
+}
+
+.nav-link {
+  color: #fafafa;
+  font-size: 1.1em;
+  font-family: "Exo", sans-serif;
+}
