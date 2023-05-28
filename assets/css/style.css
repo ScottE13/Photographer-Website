@@ -148,6 +148,11 @@ button:hover {
  
 }
 
+.form-control{
+  margin-bottom: 5px;
+}
+
+
 
 /* Footer */
 
@@ -160,4 +165,18 @@ footer {
 
 .nav-link:hover {
   color: #8785A2;
+}
+
+/* Media Query */
+
+@media(min-width:992px) {
+  .form {
+      padding-top: 30px;
+      margin: 0 auto;
+      max-width: 75%;
+  }
+
+  .form-btn{
+      margin-top: 50px;
+  }
 }
