@@ -38,3 +38,16 @@ h2 {
   font-size: 1.1em;
   font-family: "Exo", sans-serif;
 }
+
+/* Footer */
+
+footer {
+  background-color: #394349;
+  color: #fafafa;
+  margin: 0;
+  margin-top: auto;
+}
+
+.nav-link:hover {
+  color:#8785A2;
+}
