@@ -43,8 +43,44 @@ Users are the site are envisioned to be primarily people who are searching for a
 - Be able to contact the photographer to discuss their work.
 - Find links to social media accounts to connect with the photographer.
 
-
 ## Project Scope
+
+The Scope of this project is to deliver a basic website that meets the client and user goals outlined above only. Additional functionality, content or features could be added in the future but will not be part of this release. In order to stay within this scope the basic site structure was planed in advance to outline the key pages required to meet the outlined goals. 
+
+- - -
+
+# Design & Structure
+
+## Project Structure
+
+The basic structure of the website was planned to include the following pages.
+
+- Home page providing a photo of the photographer and basic about information.
+- Portfolio page to display examples of work. 
+- Testimonials page to display reviews from prior customers.
+- Contact page to allow people to request business and ask any questions they may have. 
+
+One additional page was added during development which was a thank you page following form submission. 
+
+## Wireframes
+
+Simple wireframes for the website pages were drawn up using [wireframe.cc](https://wireframe.cc/)
+
+<details><summary>Home</summary>
+<img src="assets/images/readme/wireframe-index.jpg">
+
+<details><summary>Portfolio</summary>
+<img src="assets/images/readme/wireframe-portfolio.jpg">
+
+<details><summary>Testimonials</summary>
+<img src="assets/images/readme/wireframe-testimonials.jpg">
+
+<details><summary>Contact</summary>
+<img src="assets/images/readme/wireframe-contact.jpg">
+
+<br>
+
+## Visual Design
 
 - - -
 
