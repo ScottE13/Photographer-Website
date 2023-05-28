@@ -96,7 +96,7 @@ h5 {
   align-items: center;
 }
 
-button {
+.index-btn {
   border-radius: 50%;
   padding: 17px;
   margin: 15px 0 15px 0;
@@ -109,14 +109,10 @@ button {
   max-width: 200px;
   height: auto;
   width: 60%;
-}
-
-button a {
   text-decoration: none;
-  color: #fafafa;
 }
 
-button:hover {
+.index-btn:hover {
   background-color: #a6abae;
 }
 
@@ -156,7 +152,6 @@ button:hover {
   margin-top: 100px;
 }
 
-
 /* Footer */
 
 footer {
@@ -184,8 +179,8 @@ footer {
   }
 }
 
-@media(max-width:992px) {
+/* @media(max-width:992px) {
   .index-btn{
       margin-bottom: 50px;
   }
-}
+} */
